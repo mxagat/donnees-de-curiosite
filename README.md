@@ -6,6 +6,6 @@ A la façon des anciens cabinets de curiosité, il rassemble des objets hétéro
 
 J'utilise principalement le logiciel statistique libre R et l'ensemble du blog est realisé avec le package <a href= "https://github.com/rstudio/distill" title ="R Distill"> R Distill </a>. 
 
-Si les données et le code sont partagés en licence GNU GPL 3, les textes d'analyse restent la propriété de leur auteur, Maxime Agator.
+Si les données et le code sont partagés en licence GNU GPL 3, les graphiques et textes d'analyse restent la propriété de leur auteur, Maxime Agator.
 
 Commentaires et remarques sont les bienvenues. Bonne lecture !
