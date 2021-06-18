@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "A propos de ce blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\nA la façon des anciens cabinets de curiosité, ce blog rassemble des objets hétéroclites dont le seul point commun est d’avoir un jour suscité l’intérêt et le désir de comprendre du propriétaire des lieux, Maxime Agator, actuellement doctorant en sociologie à l’EHESS.\r\nCe blog part du principe qu’à l’âge des data, bien des questions peuvent trouver leurs réponses pour peu que l’on s’efforce d’identifier les bonnes données et, surtout, de bien les analyser. Vous trouverez donc ici essais d’analyses et interprétations de données permettant de mieux comprendre divers sujets de société, à partir de sources le plus souvent librement accessibles.\r\nD’un point de vue technique, les analyses s’appuient principalement sur le logiciel statistique libre R et l’ensemble du blog est realisé avec le package Distill for R Markdown.\r\nSi les données et le code sont partagés en licence GNU GPL 3, les graphiques et textes d’analyse restent la propriété de leur auteur.\r\nCommentaires et remarques sont les bienvenues. Bonne lecture !\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T15:41:35+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Un blog d'analyse de données de société",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-18T15:41:35+02:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
