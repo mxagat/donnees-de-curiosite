@@ -12,10 +12,14 @@ collections:
 theme: theme.css
 navbar:
   right:
-    - text: "Home"
+    - text: "Accueil"
       href: index.html
-    - text: "About"
+    - text: "À propos"
       href: about.html
+    - icon: fa fa-github
+      href: https://github.com/mxagat
+    - icon: fa fa-twitter
+      href: https://twitter.com/donneescurio
   search: false
 output: 
   distill::distill_article
