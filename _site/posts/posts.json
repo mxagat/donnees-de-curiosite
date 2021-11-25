@@ -23,7 +23,7 @@
     "input_file": {}
   },
   {
-    "path": "posts/welcome/",
+    "path": "posts/2021-06-21-lancement-du-blog/",
     "title": "Lancement du blog",
     "description": "Bienvenue sur ce blog !",
     "author": [
@@ -39,7 +39,7 @@
       "infos"
     ],
     "contents": "\r\n\r\nbody {\r\ntext-align: justify}\r\nBienvenue sur ce blog !\r\nVous trouverez ici des analyses de données sur des thèmes aussi divers que le vélo et les transports urbains, la corruption, la démographie, ou - en toute originalité - le covid 19. Ce cabinet de curiosité numérique répond, comme ceux du XIXème, d’abord à la curiosité de son propriétaire, mais en laissant bien sûr de côté la recherche d’exotisme propre à la période coloniale.\r\nLa data vue par les magazinesL’idée de ce blog est née lors de mon apprentissage du logiciel statistique R au cours de mes années de thèse en sociologie. J’ai été émerveillé - n’ayons pas peur des mots - par les possibilités offertes par l’analyse des données pour comprendre les phénomènes sociaux et, in fine, pouvoir agir en connaissance de cause. Je ne parle pas même ici de techniques statistiques très poussées comme le machine learning les réseaux de neurones, mais bien de méthodes statistiques descriptives efficaces pour cerner les grandes dimensions d’un phénomène. Il est toujours surprenant de constater à quel point même cet usage relativement simple des données reste rare, et comme ce potentiel est sous exploité, y compris par les professionnels de l’information et des connaissances.\r\nComment cela s’explique-t-il ? Les raisons à cela sont sans doute nombreuses : sources de données mal connues ou identifiées, manque de formation statistique, habitudes. Comment expliquer sinon la place royale réservée dans la presse à un outil comme la moyenne, un indicateur souvent trompeur ? Rappelons la plaisanterie de statisticiens : “quand Bill Gates rentre dans un bar, en moyenne tous les clients sont millionaires”. En l’occurrence, on gagnerait souvent à s’intéresser à la médiane, ou encore mieux à la distribution des fréquences, souvent bien plus parlante.\r\nUn bon contre-exemple, distribution des richesses par Philippe Rioux / La dépêche du midi, 2018 1Cependant il s’agit là de technique, et la technique statistique, aussi importante soit-elle, ne suffit pas : pour comprendre un phénomène social, il faut toujours aussi interpréter, même Si c’est un exercice difficile. Et pour cause, interpréter implique de mobiliser des informations ou des concepts extérieurs à la technique mathématique, qu’ils soient issus d’une connaissance de terrain, d’une expertise professionnelle ou d’une discipline scientifique comme la sociologie.\r\nA sa modeste échelle et sans prétention scientifique, ce blog offrira donc un cadre pour mes explorations curieuses et permettra peut-être de montrer qu’avec des données bien employées et de méthodes statistiques simples, on peut comprendre davantage et - sait-on jamais ? - agir mieux.\r\nVos remarques et commentaires constructifs seront évidemment les bienvenus.\r\nBonne lecture !\r\nMaxime Agator\r\nRiche, pauvre : quel Français êtes-vous ?” La dépêche du midi, 07/06/2018. https://www.ladepeche.fr/article/2018/06/07/2812978-riche-pauvre-quel-francais-etes-vous.html\r\n\r\n↩︎\r\n",
-    "preview": "posts/welcome/media/colorful.jpg",
+    "preview": "posts/2021-06-21-lancement-du-blog/media/colorful.jpg",
     "last_modified": "2021-11-25T18:40:13+01:00",
     "input_file": {}
   }
