@@ -2,7 +2,7 @@ name: "Données de curiosité"
 title: "Données de curiosité"
 description: |
   Données de curiosité - Un blog d'analyse de données de société par Maxime Agator
-output_dir: "_site"
+output_dir: "docs"
 
 collections:
   posts:
