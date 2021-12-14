@@ -5,14 +5,14 @@
       "title": "A propos de ce blog",
       "author": [],
       "contents": "\r\n\r\nbody {\r\ntext-align: justify}\r\nBlog personnel d’analyses de données alimenté par Maxime Agator.\r\nJe réalise ici des analyses de données sur divers sujets en fonction de ma curiosité et des méthodes statistiques et data que je souhaite pratiquer. J’utilise beaucoup le logiciel R, mais j’essaye de découvrir régulièrement d’autres outils !\r\nSi les données et le code sont partagés en licence GNU GPL 3, les graphiques et textes d’analyse restent la propriété de leur auteur.\r\nCommentaires et remarques constructives sont les bienvenues. Bonne lecture !\r\nOeuvre d’art génératif, créée de façon aléatoire via le package R aRtsyEnglish\r\nPersonal data analysis blog by Maxime Agator\r\nYou will find on this blog data anlysis of various subjects of interest to me. I pick them based on my curiosity and the data analysis tools I wish to practice. I am a R user, but I am open to others tools !\r\nData and codes are shared under GNU GPL 3 licence. However, graphs and and texts remain property of their author.\r\nFeel free to share any remarks and constructive comments. Cheers !\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-14T15:55:06+01:00"
+      "last_modified": "2021-12-14T15:57:23+01:00"
     },
     {
       "path": "index.html",
       "title": "Un blog de data analyse",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-14T15:55:07+01:00"
+      "last_modified": "2021-12-14T15:57:24+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
