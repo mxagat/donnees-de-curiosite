@@ -1,7 +1,7 @@
 ---
 title: "À quelle heure votent les cyclistes ?"
 description: |
-  Analyse de la participation au Baromètres des villes cyclables 2019 avec le package lubridate
+  Analyse de la participation au Baromètres des villes cyclables 2019 avec le package R lubridate
 author:
   - name: Maxime Agator
     url: {https://mxagat.github.io/donnees-de-curiosite/}
@@ -160,14 +160,14 @@ Ce graphique permet de repérer les principales dynamiques de vote:
 
 - **On vote davantage en semaine que le week-end**, avec une participation plus soutenue en soirée du mardi au jeudi
 
-- **Un pic de votes vers 9h-10h en semaine**, peut-être consécutifs aux tractages fait par des militants sur les pistes le matin, l'une des principales méthodes de diffusion du baromètre
+- **Un pic de votes vers 9h-10h en semaine**, peut-être consécutifs aux tractages fait par des militants sur les pistes cyclables le matin, l'une des principales méthodes de diffusion du baromètre
 
 - **Un pic majeur de votes le jeudi en fin d'après-midi**. Ce fort résultat ne semble pas dû à la présence d'*outliers* statistiques.
 
 
 ## Conclusion
 
-L'interprétation de ce résultat du point de vue des associations reste à faire : faut-il exploiter les moments de plus forte participation en concentrant la diffusion sur ces créneaux ? À l'inverse, la plus fainle participation le week-end doit-elle être interprétée comme un moment de moindre présence en ligne des participants potentiels, ou comme le résultat d'une moindre mobilisation des militants ces jours ?
+L'interprétation de ce résultat du point de vue des associations reste à faire : faut-il exploiter les moments de plus forte participation en concentrant la diffusion sur ces créneaux ? À l'inverse, la plus faible participation le week-end doit-elle être interprétée comme un moment de moindre présence en ligne des participants potentiels, ou comme le résultat d'une moindre mobilisation des militants ces jours ?
 
 La [campagne du Baromètre de 2021](https://www.lemonde.fr/blog/transports/2021/11/14/barometre-des-villes-cyclables-2021-extension-du-domaine-du-velo/) permettra peut-être d'affiner ce regard, puisque les militants ont mis en place depuis la mi-novembre de nouveaux modes de diffusion très efficaces sur les réseaux sociaux, avec un triplement la participation journalière moyenne ! À ce rythme, le baromètre dépassera facilement cette année les 250 000 réponses. La comparaison entre le début et la fin de campagne permettra donc certainement d'évaluer l'effet de la mobilisation à des horaires moins conventionnels via les réseaux sociaux sur le profil horaire et hebdomadaire du vote.
 
