@@ -9,10 +9,10 @@
     },
     {
       "path": "index.html",
-      "title": "Un blog d'analyse de données de société",
+      "title": "Un blog de data analyse",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-09T09:55:39+01:00"
+      "last_modified": "2021-12-09T10:09:09+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
